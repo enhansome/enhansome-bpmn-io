@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T14:35:04Z",
+            "last_commit": "2026-08-14T19:32:08Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9631
+            "stars": 9632
           }
         },
         {
@@ -283,7 +283,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-05T11:43:15Z",
+            "last_commit": "2026-08-14T17:12:15Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js-color-picker",
             "stars": 33
@@ -637,7 +637,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T02:15:17Z",
+            "last_commit": "2026-08-15T12:40:52Z",
             "owner": "bpmn-io",
             "repo": "react-bpmn",
             "stars": 220
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T16:43:17Z",
+            "last_commit": "2026-08-14T19:22:33Z",
             "owner": "camunda",
             "repo": "camunda-modeler",
             "stars": 1697
@@ -741,7 +741,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T03:59:51Z",
+            "last_commit": "2026-08-14T18:04:50Z",
             "owner": "pinussilvestrus",
             "repo": "postit-js",
             "stars": 96
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:07:46.378Z",
+    "last_updated": "2026-08-15T16:38:02.423Z",
     "original_repository": "bpmn-io/awesome-bpmn-io",
     "original_repository_sha": "0e721c90362940105482a240f12f6ac7568e2226",
     "enhanced_repository": "enhansome/enhansome-bpmn-io",
