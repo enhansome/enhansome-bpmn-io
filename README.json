@@ -67,7 +67,7 @@
             "last_commit": "2026-08-14T19:32:08Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9632
+            "stars": 9634
           }
         },
         {
@@ -713,7 +713,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T19:22:33Z",
+            "last_commit": "2026-08-15T21:18:23Z",
             "owner": "camunda",
             "repo": "camunda-modeler",
             "stars": 1697
@@ -852,7 +852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:38:02.423Z",
+    "last_updated": "2026-08-16T16:38:51.237Z",
     "original_repository": "bpmn-io/awesome-bpmn-io",
     "original_repository_sha": "0e721c90362940105482a240f12f6ac7568e2226",
     "enhanced_repository": "enhansome/enhansome-bpmn-io",
