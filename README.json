@@ -12,7 +12,7 @@
             "archived": false,
             "id": 20054543,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:18:27Z",
+            "last_commit": "2026-08-19T12:20:48Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js-examples",
             "stars": 2043
@@ -538,7 +538,7 @@
                 "archived": false,
                 "id": 144814732,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T12:02:04Z",
+                "last_commit": "2026-08-19T12:38:17Z",
                 "owner": "bpmn-io",
                 "repo": "bpmnlint",
                 "stars": 169
@@ -795,7 +795,7 @@
             "archived": false,
             "id": 42712762,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T10:36:12Z",
+            "last_commit": "2026-08-19T16:26:09Z",
             "owner": "camunda",
             "repo": "camunda-modeler",
             "stars": 1697
@@ -855,7 +855,7 @@
             "archived": false,
             "id": 516665812,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:02:16Z",
+            "last_commit": "2026-08-19T15:02:38Z",
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 33
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:18:54.536Z",
+    "last_updated": "2026-08-19T16:44:32.818Z",
     "original_repository": "bpmn-io/awesome-bpmn-io",
     "original_repository_id": 162265232,
     "original_repository_sha": "0e721c90362940105482a240f12f6ac7568e2226",
