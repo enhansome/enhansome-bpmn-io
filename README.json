@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-19T12:13:09Z",
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9635
+                "stars": 9636
               }
             },
             {
@@ -95,7 +95,7 @@
                 "archived": false,
                 "id": 36921499,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T11:04:00Z",
+                "last_commit": "2026-08-21T22:03:30Z",
                 "owner": "bpmn-io",
                 "repo": "dmn-js",
                 "stars": 365
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-19T12:13:09Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9635
+            "stars": 9636
           },
           "title": "bpmn-js"
         },
@@ -520,7 +520,7 @@
             "archived": false,
             "id": 36921499,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T11:04:00Z",
+            "last_commit": "2026-08-21T22:03:30Z",
             "owner": "bpmn-io",
             "repo": "dmn-js",
             "stars": 365
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-20T06:59:21Z",
             "owner": "emaarco",
             "repo": "slidev-addon-bpmn",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2026-08-21T13:45:59Z",
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1697
+            "stars": 1698
           }
         },
         {
@@ -855,7 +855,7 @@
             "archived": false,
             "id": 516665812,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T11:59:42Z",
+            "last_commit": "2026-08-22T14:03:01Z",
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 34
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:49:00.907Z",
+    "last_updated": "2026-08-22T16:37:36.122Z",
     "original_repository": "bpmn-io/awesome-bpmn-io",
     "original_repository_id": 162265232,
     "original_repository_sha": "0e721c90362940105482a240f12f6ac7568e2226",
