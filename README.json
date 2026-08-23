@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-19T12:13:09Z",
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9636
+                "stars": 9635
               }
             },
             {
@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 341551668,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T13:59:45Z",
+                "last_commit": "2026-08-23T01:33:49Z",
                 "owner": "bpmn-io",
                 "repo": "form-js",
-                "stars": 547
+                "stars": 548
               }
             },
             {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-19T12:13:09Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9636
+            "stars": 9635
           },
           "title": "bpmn-js"
         },
@@ -601,7 +601,7 @@
                 "last_commit": "2026-07-18T19:14:35Z",
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-differ",
-                "stars": 55
+                "stars": 54
               }
             },
             {
@@ -714,7 +714,7 @@
             "archived": false,
             "id": 177992021,
             "language": "HTML",
-            "last_commit": "2026-08-21T16:15:57Z",
+            "last_commit": "2026-08-22T19:01:04Z",
             "owner": "bpmn-io",
             "repo": "react-bpmn",
             "stars": 220
@@ -798,7 +798,7 @@
             "last_commit": "2026-08-21T13:45:59Z",
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1698
+            "stars": 1699
           }
         },
         {
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:37:36.122Z",
+    "last_updated": "2026-08-23T16:39:45.502Z",
     "original_repository": "bpmn-io/awesome-bpmn-io",
     "original_repository_id": 162265232,
     "original_repository_sha": "0e721c90362940105482a240f12f6ac7568e2226",
