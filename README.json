@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 341551668,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T01:33:49Z",
+                "last_commit": "2026-08-24T09:07:52Z",
                 "owner": "bpmn-io",
                 "repo": "form-js",
                 "stars": 548
@@ -95,7 +95,7 @@
                 "archived": false,
                 "id": 36921499,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T22:03:30Z",
+                "last_commit": "2026-08-24T07:30:58Z",
                 "owner": "bpmn-io",
                 "repo": "dmn-js",
                 "stars": 365
@@ -120,6 +120,28 @@
           "description": null,
           "node_type": "group",
           "title": "Core"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chor-js",
+              "description": "BPMN 2.0 choreography diagram renderer/editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151979487,
+                "language": "JavaScript",
+                "last_commit": "2021-01-14T10:52:23Z",
+                "owner": "bptlab",
+                "repo": "chor-js",
+                "stars": 150
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Maintained"
         },
         {
           "children": [
@@ -507,7 +529,7 @@
                 "archived": false,
                 "id": 1320227324,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T06:59:48Z",
+                "last_commit": "2026-08-24T10:46:09Z",
                 "owner": "emaarco",
                 "repo": "dmn-js-simulation",
                 "stars": 1
@@ -520,7 +542,7 @@
             "archived": false,
             "id": 36921499,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T22:03:30Z",
+            "last_commit": "2026-08-24T07:30:58Z",
             "owner": "bpmn-io",
             "repo": "dmn-js",
             "stars": 365
@@ -541,7 +563,7 @@
                 "last_commit": "2026-08-19T12:38:17Z",
                 "owner": "bpmn-io",
                 "repo": "bpmnlint",
-                "stars": 168
+                "stars": 169
               }
             },
             {
@@ -729,7 +751,7 @@
             "archived": false,
             "id": 160560297,
             "language": "TypeScript",
-            "last_commit": "2026-07-27T08:57:29Z",
+            "last_commit": "2026-08-24T08:34:16Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js-example-angular",
             "stars": 64
@@ -795,10 +817,10 @@
             "archived": false,
             "id": 42712762,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T13:45:59Z",
+            "last_commit": "2026-08-24T14:10:25Z",
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1699
+            "stars": 1700
           }
         },
         {
@@ -833,6 +855,21 @@
         },
         {
           "node_type": "item",
+          "title": "Miragon BPMN Modeler",
+          "description": "BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516665812,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:18:55Z",
+            "owner": "Miragon",
+            "repo": "bpmn-modeler",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Obsidian BPMN Plugin",
           "description": "A BPMN Viewer / Editor based on bpmn-js for Obsidian",
           "children": [],
@@ -843,21 +880,6 @@
             "last_commit": "2026-06-12T12:51:21Z",
             "owner": "joleaf",
             "repo": "obsidian-bpmn-plugin",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Miragon BPMN Modeler",
-          "description": "BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 516665812,
-            "language": "TypeScript",
-            "last_commit": "2026-08-22T14:03:01Z",
-            "owner": "Miragon",
-            "repo": "bpmn-modeler",
             "stars": 34
           }
         },
@@ -932,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:39:45.502Z",
+    "last_updated": "2026-08-24T14:31:35.489Z",
     "original_repository": "bpmn-io/awesome-bpmn-io",
     "original_repository_id": 162265232,
     "original_repository_sha": "0e721c90362940105482a240f12f6ac7568e2226",
