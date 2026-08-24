@@ -111,7 +111,7 @@
 
 ## Apps
 
-* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,700 | 🐛 632 | 🌐 JavaScript | 📅 2026-08-24 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
+* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,700 | 🐛 631 | 🌐 JavaScript | 📅 2026-08-24 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) ⭐ 134 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-30 - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) ⭐ 96 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-14 - Create Post-it boards on a canvas editor
 * [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) ⭐ 35 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-24 - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
@@ -130,7 +130,7 @@
 
 ## Contribute
 
-Would you like to contribute to this list? [Propose your addition](https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md) ⭐ 227 | 🐛 0 | 📅 2026-08-13.
+Would you like to contribute to this list? [Propose your addition](https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md) ⭐ 228 | 🐛 0 | 📅 2026-08-13.
 
 This awesome list provides projects and resources that heavily feature the [bpmn.io](https://bpmn.io) project. We do not accept contributions where using our libraries is merely a footnote.
 
