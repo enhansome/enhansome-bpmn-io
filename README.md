@@ -100,7 +100,7 @@
 ## Integrations
 
 * [vue-bpmn](https://github.com/bpmn-io/vue-bpmn) ⭐ 266 | 🐛 1 | 🌐 HTML | 📅 2026-07-22 - Render BPMN 2.0 diagrams in a [Vue.js](https://vuejs.org) application
-* [react-bpmn](https://github.com/bpmn-io/react-bpmn) ⭐ 220 | 🐛 1 | 🌐 HTML | 📅 2026-08-22 - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
+* [react-bpmn](https://github.com/bpmn-io/react-bpmn) ⭐ 221 | 🐛 1 | 🌐 HTML | 📅 2026-08-22 - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
 * [bpmn-js-example-angular](https://github.com/bpmn-io/bpmn-js-example-angular) ⭐ 64 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-24 - An integration of bpmn-js with [Angular](https://angular.io/)
 * [svelte-bpmn](https://github.com/bpmn-io/svelte-bpmn) ⭐ 9 | 🐛 0 | 🌐 Svelte | 📅 2021-07-30 - Render BPMN 2.0 diagrams in a [Svelte](https://svelte.dev) application
 * [slidev-addon-bpmn](https://github.com/emaarco/slidev-addon-bpmn) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-20 - Display BPMN 2.0 diagrams in [Slidev](https://sli.dev) presentations.
@@ -114,7 +114,7 @@
 * [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,700 | 🐛 631 | 🌐 JavaScript | 📅 2026-08-24 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) ⭐ 134 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-30 - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) ⭐ 96 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-14 - Create Post-it boards on a canvas editor
-* [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) ⭐ 35 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-24 - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
+* [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) ⭐ 35 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-25 - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
 * [Obsidian BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) ⭐ 34 | 🐛 10 | 🌐 TypeScript | 📅 2026-06-12 - A BPMN Viewer / Editor based on bpmn-js for [Obsidian](https://obsidian.md/)
 * [bpmn-diff-bitbucket-plugin](https://github.com/domclick/bpmn-diff-bitbucket-plugin) ⭐ 19 | 🐛 3 | 🌐 JavaScript | 📅 2024-01-30 - Bitbucket Server plugin for BPMN file versions visual comparison during pull-requests
 * [Cawemo](https://cawemo.com/) - A web-based, collaborative modeling solution that uses bpmn-js for process modeling
@@ -140,4 +140,4 @@ This awesome list provides projects and resources that heavily feature the [bpmn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
