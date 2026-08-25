@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 17592572,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T12:13:09Z",
+                "last_commit": "2026-08-25T09:11:24Z",
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9635
+                "stars": 9636
               }
             },
             {
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 341551668,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T09:07:52Z",
+                "last_commit": "2026-08-25T15:19:33Z",
                 "owner": "bpmn-io",
                 "repo": "form-js",
                 "stars": 548
@@ -95,7 +95,7 @@
                 "archived": false,
                 "id": 36921499,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T07:30:58Z",
+                "last_commit": "2026-08-25T12:59:18Z",
                 "owner": "bpmn-io",
                 "repo": "dmn-js",
                 "stars": 365
@@ -169,7 +169,7 @@
                 "archived": false,
                 "id": 18410587,
                 "language": "JavaScript",
-                "last_commit": "2026-08-11T21:46:08Z",
+                "last_commit": "2026-08-25T09:56:45Z",
                 "owner": "bpmn-io",
                 "repo": "bpmn-moddle",
                 "stars": 510
@@ -184,7 +184,7 @@
                 "archived": false,
                 "id": 36862229,
                 "language": "JavaScript",
-                "last_commit": "2026-07-10T13:47:58Z",
+                "last_commit": "2026-08-25T10:15:42Z",
                 "owner": "bpmn-io",
                 "repo": "dmn-moddle",
                 "stars": 14
@@ -481,10 +481,10 @@
             "archived": false,
             "id": 17592572,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:13:09Z",
+            "last_commit": "2026-08-25T09:11:24Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9635
+            "stars": 9636
           },
           "title": "bpmn-js"
         },
@@ -542,7 +542,7 @@
             "archived": false,
             "id": 36921499,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T07:30:58Z",
+            "last_commit": "2026-08-25T12:59:18Z",
             "owner": "bpmn-io",
             "repo": "dmn-js",
             "stars": 365
@@ -736,7 +736,7 @@
             "archived": false,
             "id": 177992021,
             "language": "HTML",
-            "last_commit": "2026-08-22T19:01:04Z",
+            "last_commit": "2026-08-25T14:05:13Z",
             "owner": "bpmn-io",
             "repo": "react-bpmn",
             "stars": 221
@@ -817,7 +817,7 @@
             "archived": false,
             "id": 42712762,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T15:09:57Z",
+            "last_commit": "2026-08-25T15:00:10Z",
             "owner": "camunda",
             "repo": "camunda-modeler",
             "stars": 1700
@@ -862,7 +862,7 @@
             "archived": false,
             "id": 516665812,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:08:11Z",
+            "last_commit": "2026-08-25T09:47:35Z",
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 35
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:17.857Z",
+    "last_updated": "2026-08-25T16:52:33.107Z",
     "original_repository": "bpmn-io/awesome-bpmn-io",
     "original_repository_id": 162265232,
     "original_repository_sha": "0e721c90362940105482a240f12f6ac7568e2226",
