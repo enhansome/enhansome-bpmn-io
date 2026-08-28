@@ -65,7 +65,7 @@
                 "archived": false,
                 "id": 17592572,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T06:31:21Z",
+                "last_commit": "2026-08-27T21:08:01Z",
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
                 "stars": 9636
@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 341551668,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:16:54Z",
+                "last_commit": "2026-08-27T11:55:22Z",
                 "owner": "bpmn-io",
                 "repo": "form-js",
                 "stars": 548
@@ -154,7 +154,7 @@
                 "archived": false,
                 "id": 16174770,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T15:05:02Z",
+                "last_commit": "2026-08-27T21:07:47Z",
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
                 "stars": 1918
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 16174770,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T15:05:02Z",
+            "last_commit": "2026-08-27T21:07:47Z",
             "owner": "bpmn-io",
             "repo": "diagram-js",
             "stars": 1918
@@ -393,7 +393,7 @@
                 "archived": false,
                 "id": 614929771,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T15:02:37Z",
+                "last_commit": "2026-08-27T23:36:01Z",
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-create-append-anything",
                 "stars": 16
@@ -481,7 +481,7 @@
             "archived": false,
             "id": 17592572,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T06:31:21Z",
+            "last_commit": "2026-08-27T21:08:01Z",
             "owner": "bpmn-io",
             "repo": "bpmn-js",
             "stars": 9636
@@ -736,7 +736,7 @@
             "archived": false,
             "id": 177992021,
             "language": "HTML",
-            "last_commit": "2026-08-26T16:12:32Z",
+            "last_commit": "2026-08-27T22:55:54Z",
             "owner": "bpmn-io",
             "repo": "react-bpmn",
             "stars": 222
@@ -817,7 +817,7 @@
             "archived": false,
             "id": 42712762,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:23:49Z",
+            "last_commit": "2026-08-27T22:21:17Z",
             "owner": "camunda",
             "repo": "camunda-modeler",
             "stars": 1701
@@ -862,7 +862,7 @@
             "archived": false,
             "id": 516665812,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:16:05Z",
+            "last_commit": "2026-08-27T21:04:11Z",
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 35
@@ -877,7 +877,7 @@
             "archived": false,
             "id": 565176096,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T12:51:21Z",
+            "last_commit": "2026-08-27T22:47:44Z",
             "owner": "joleaf",
             "repo": "obsidian-bpmn-plugin",
             "stars": 34
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:32.869Z",
+    "last_updated": "2026-08-28T00:51:10.126Z",
     "original_repository_info": {
       "archived": false,
       "id": 162265232,
