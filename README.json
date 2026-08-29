@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples how to use bpmn-js",
+            "homepage": "https://bpmn.io/toolkit/bpmn-js",
             "id": 20054543,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T10:42:37Z",
+            "open_issues": 8,
             "owner": "bpmn-io",
             "repo": "bpmn-js-examples",
-            "stars": 2042
+            "stars": 2042,
+            "topics": [
+              "bpmn",
+              "bpmn-js",
+              "hacktoberfest",
+              "javascript",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -26,12 +37,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some examples on how to use dmn-js",
+            "homepage": null,
             "id": 37456353,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-28T09:45:37Z",
+            "open_issues": 2,
             "owner": "bpmn-io",
             "repo": "dmn-js-examples",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "dmn-js"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of form-js examples.",
+            "homepage": null,
             "id": 362802012,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T09:46:23Z",
+            "open_issues": 7,
             "owner": "bpmn-io",
             "repo": "form-js-examples",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         }
@@ -66,12 +89,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BPMN 2.0 rendering toolkit and web modeler.",
+                "homepage": "https://bpmn.io/toolkit/bpmn-js/",
                 "id": 17592572,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:55:08Z",
+                "open_issues": 129,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9637
+                "stars": 9636,
+                "topics": [
+                  "bpmn",
+                  "bpmn-js",
+                  "browser",
+                  "hacktoberfest",
+                  "javascript",
+                  "modeler",
+                  "toolkit"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -82,12 +118,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "View and visually edit JSON-based forms.",
+                "homepage": "https://bpmn.io/toolkit/form-js/",
                 "id": 341551668,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T09:48:33Z",
+                "open_issues": 172,
                 "owner": "bpmn-io",
                 "repo": "form-js",
-                "stars": 548
+                "stars": 548,
+                "topics": [
+                  "bpmn-io",
+                  "form",
+                  "form-js",
+                  "forms",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -98,12 +145,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "View and edit DMN diagrams in the browser.",
+                "homepage": "https://bpmn.io/toolkit/dmn-js/",
                 "id": 36921499,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T09:46:39Z",
+                "open_issues": 64,
                 "owner": "bpmn-io",
                 "repo": "dmn-js",
-                "stars": 365
+                "stars": 365,
+                "topics": [
+                  "dmn",
+                  "hacktoberfest",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -114,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A CMMN 1.1 rendering toolkit and web modeler.",
+                "homepage": "https://bpmn.io/toolkit/cmmn-js/",
                 "id": 42510113,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2020-10-14T13:12:31Z",
+                "open_issues": 8,
                 "owner": "bpmn-io",
                 "repo": "cmmn-js",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             }
@@ -137,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An editor for BPMN 2.0 choreography diagrams based on bpmn-js",
+                "homepage": null,
                 "id": 151979487,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-14T10:52:23Z",
+                "open_issues": 7,
                 "owner": "bptlab",
                 "repo": "chor-js",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             }
@@ -160,12 +226,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolbox for displaying and modifying diagrams on the web.",
+                "homepage": null,
                 "id": 16174770,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:44:03Z",
+                "open_issues": 28,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
-                "stars": 1918
+                "stars": 1918,
+                "topics": [
+                  "diagram-editor",
+                  "diagram-js",
+                  "hacktoberfest",
+                  "javascript",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -176,12 +253,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read and write BPMN 2.0 XML from JavaScript.",
+                "homepage": null,
                 "id": 18410587,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:03Z",
+                "open_issues": 2,
                 "owner": "bpmn-io",
                 "repo": "bpmn-moddle",
-                "stars": 510
+                "stars": 510,
+                "topics": [
+                  "bpmn",
+                  "javascript",
+                  "moddle",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -192,12 +279,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read and write DMN XML from JavaScript.",
+                "homepage": null,
                 "id": 36862229,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:49Z",
+                "open_issues": 3,
                 "owner": "bpmn-io",
                 "repo": "dmn-moddle",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "dmn",
+                  "moddle"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             }
@@ -221,12 +316,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimap for diagram-js",
+                "homepage": null,
                 "id": 86704308,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:26Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "diagram-js-minimap",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "diagram-js",
+                  "minimap"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -237,12 +340,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Direct editing support for diagram-js",
+                "homepage": null,
                 "id": 20527614,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:21Z",
+                "open_issues": 1,
                 "owner": "bpmn-io",
                 "repo": "diagram-js-direct-editing",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -253,12 +363,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A visual grid for diagram-js",
+                "homepage": null,
                 "id": 617891565,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:24Z",
+                "open_issues": 1,
                 "owner": "bpmn-io",
                 "repo": "diagram-js-grid",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "diagram-js",
+                  "grid"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -269,12 +387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A point of origin crosshair for diagram-js",
+                "homepage": null,
                 "id": 24148053,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:27Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "diagram-js-origin",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             }
@@ -283,12 +406,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A toolbox for displaying and modifying diagrams on the web.",
+            "homepage": null,
             "id": 16174770,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:44:03Z",
+            "open_issues": 28,
             "owner": "bpmn-io",
             "repo": "diagram-js",
-            "stars": 1918
+            "stars": 1918,
+            "topics": [
+              "diagram-editor",
+              "diagram-js",
+              "hacktoberfest",
+              "javascript",
+              "svg"
+            ]
           },
           "title": "diagram-js",
           "first_seen": "2026-08-29T00:32:41.856Z"
@@ -302,12 +436,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BPMN 2.0 specification compliant token simulator.",
+                "homepage": "https://bpmn-io.github.io/bpmn-js-token-simulation/modeler.html?e=1&pp=1",
                 "id": 100720491,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:50Z",
+                "open_issues": 20,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-token-simulation",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "bpmn",
+                  "bpmn-engine",
+                  "bpmn-js",
+                  "hacktoberfest",
+                  "simulator"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -318,12 +463,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bpmn-js, nyan cat style :rainbow: :cat:",
+                "homepage": null,
                 "id": 42602642,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:44:43Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-nyan",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "bpmn-js"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -334,12 +486,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line interface for bpmn-js. BPMN 2.0 modeling that just works!",
+                "homepage": null,
                 "id": 22477469,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:44:07Z",
+                "open_issues": 1,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-cli",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "bpmn-js"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -350,12 +509,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple color picker for your BPMN elements.",
+                "homepage": null,
                 "id": 68397059,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:51:03Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-color-picker",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "bpmn-js"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -366,12 +532,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sketchy renderer for bpmn-js.",
+                "homepage": "https://cdn.statically.io/gh/bpmn-io/bpmn-js-sketchy/main/demo/index.html",
                 "id": 134848546,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T09:44:48Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-sketchy",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "bpmn",
+                  "bpmn-js",
+                  "handdrawn",
+                  "sketchy"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -382,12 +558,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple comments for bpmn-js",
+                "homepage": null,
                 "id": 24323943,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:44:22Z",
+                "open_issues": 1,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-embedded-comments",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bpmn-js",
+                  "commenting"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -398,12 +582,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visualize all Camunda transaction boundaries in a BPMN diagram.",
+                "homepage": null,
                 "id": 63074901,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:12Z",
+                "open_issues": 2,
                 "owner": "bpmn-io",
                 "repo": "camunda-transaction-boundaries",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bpmn-js",
+                  "camunda"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -414,12 +606,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A create/append anything bpmn-js extension.",
+                "homepage": null,
                 "id": 614929771,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:44:12Z",
+                "open_issues": 3,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-create-append-anything",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bpmn-js",
+                  "bpmn-js-extension",
+                  "element-templates"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -430,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BPMN-JS plugin to allow task resizing in diagrams",
+                "homepage": null,
                 "id": 179548044,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T05:10:39Z",
+                "open_issues": 0,
                 "owner": "ElCondor1969",
                 "repo": "bpmn-js-task-resize",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -446,12 +652,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bpmn-js extension to use the system clipboard for copy and paste",
+                "homepage": null,
                 "id": 106731423,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-05T21:57:27Z",
+                "open_issues": 0,
                 "owner": "nikku",
                 "repo": "bpmn-js-native-copy-paste",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "bpmn-js",
+                  "modeler"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -462,12 +676,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "bpmn-js extension which enhances subprocess modeling with replace menu",
+                "homepage": null,
                 "id": 220274170,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-02-04T14:39:13Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-collapse-subprocess",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -478,12 +697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "bpmn-js extension which is inspired by honkify 🦆",
+                "homepage": "https://bpmn-js-honkify.netlify.com/",
                 "id": 212448540,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-24T18:44:39Z",
+                "open_issues": 4,
                 "owner": "pinussilvestrus",
                 "repo": "bpmn-js-honkify",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -494,12 +718,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bpmn-js extension which disables modeling collapsed subprocess via replace menu.",
+                "homepage": null,
                 "id": 222968736,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T09:44:18Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-disable-collapsed-subprocess",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             }
@@ -508,12 +737,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A BPMN 2.0 rendering toolkit and web modeler.",
+            "homepage": "https://bpmn.io/toolkit/bpmn-js/",
             "id": 17592572,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:55:08Z",
+            "open_issues": 129,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9637
+            "stars": 9636,
+            "topics": [
+              "bpmn",
+              "bpmn-js",
+              "browser",
+              "hacktoberfest",
+              "javascript",
+              "modeler",
+              "toolkit"
+            ]
           },
           "title": "bpmn-js",
           "first_seen": "2026-08-29T00:32:41.856Z"
@@ -527,12 +769,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Migrate your DMN diagrams to the latest DMN version",
+                "homepage": "https://www.npmjs.com/package/@bpmn-io/dmn-migrate",
                 "id": 232776775,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:50:51Z",
+                "open_issues": 3,
                 "owner": "bpmn-io",
                 "repo": "dmn-migrate",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "dmn",
+                  "migration"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -543,12 +793,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate DMN diagrams based on configurable lint rules.",
+                "homepage": null,
                 "id": 227700310,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:45:42Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "dmnlint",
-                "stars": 3
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -559,12 +814,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulate DMN decision tables directly in a dmn-js modeler — feed in inputs and instantly see which rules match, which don't, and what the decision returns 🧩",
+                "homepage": "https://emaarco.github.io/dmn-js-simulation/",
                 "id": 1320227324,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:46:09Z",
+                "open_issues": 2,
                 "owner": "emaarco",
                 "repo": "dmn-js-simulation",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "bpmn-io",
+                  "decision-modeling",
+                  "decision-table",
+                  "dmn",
+                  "dmn-evaluator",
+                  "dmn-js",
+                  "dmn-simulation",
+                  "engine",
+                  "feel",
+                  "token-simulation",
+                  "typescript",
+                  "zeebe"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             }
@@ -573,12 +846,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "View and edit DMN diagrams in the browser.",
+            "homepage": "https://bpmn.io/toolkit/dmn-js/",
             "id": 36921499,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T09:46:39Z",
+            "open_issues": 64,
             "owner": "bpmn-io",
             "repo": "dmn-js",
-            "stars": 365
+            "stars": 365,
+            "topics": [
+              "dmn",
+              "hacktoberfest",
+              "javascript"
+            ]
           },
           "title": "dmn-js",
           "first_seen": "2026-08-29T00:32:41.856Z"
@@ -592,12 +874,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validate BPMN diagrams based on configurable lint rules.",
+                "homepage": null,
                 "id": 144814732,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:44:56Z",
+                "open_issues": 16,
                 "owner": "bpmn-io",
                 "repo": "bpmnlint",
-                "stars": 169
+                "stars": 170,
+                "topics": [
+                  "bpmn",
+                  "cli",
+                  "hacktoberfest",
+                  "linter",
+                  "static-diagram-analysis",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -608,12 +902,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BPMN 2.0 symbol font",
+                "homepage": null,
                 "id": 26176483,
                 "language": null,
+                "license": "OFL-1.1",
                 "last_commit": "2026-08-28T09:44:00Z",
+                "open_issues": 2,
                 "owner": "bpmn-io",
                 "repo": "bpmn-font",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "bpmn",
+                  "font"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -624,12 +926,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert BPMN 2.0 diagrams to PDF documents or PNG files.",
+                "homepage": null,
                 "id": 130327374,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T12:16:07Z",
+                "open_issues": 5,
                 "owner": "bpmn-io",
                 "repo": "bpmn-to-image",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "bpmn",
+                  "bpmn-to-image"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -640,12 +950,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internationalization resources for bpmn-js",
+                "homepage": null,
                 "id": 164601333,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:44:39Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-i18n",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "bpmn-js",
+                  "i18n"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -656,12 +974,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A diffing utility for BPMN 2.0 documents.",
+                "homepage": null,
                 "id": 22987898,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:44:15Z",
+                "open_issues": 7,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-differ",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "bpmn-js"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -672,12 +997,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert BPMN 2.0 diagrams to Microsoft Visio (.vsdx) files — zero dependencies, pure Python",
+                "homepage": null,
                 "id": 1149227862,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-01T14:56:10Z",
+                "open_issues": 2,
                 "owner": "Mgabr90",
                 "repo": "bpmn-to-visio",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bpmn",
+                  "bpmn-to-visio",
+                  "business-process",
+                  "converter",
+                  "diagram",
+                  "process-modeling",
+                  "python",
+                  "visio",
+                  "vsdx",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -688,12 +1029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add exporter meta-data to BPMN, CMMN and DMN diagrams",
+                "homepage": null,
                 "id": 162438159,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:43:52Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "add-exporter",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -704,12 +1050,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nicely align your diagrams to the coordinate origin.",
+                "homepage": null,
                 "id": 169700661,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:43:55Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "align-to-origin",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "bpmn-js",
+                  "cmmn-js",
+                  "diagram-js",
+                  "dmn-js"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -720,12 +1076,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run bpmn-js in headless environments",
+                "homepage": null,
                 "id": 676976994,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-28T09:44:38Z",
+                "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-headless",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "bpmn-js"
+                ]
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             },
@@ -736,12 +1099,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common lint rules for bpmn.io projects",
+                "homepage": null,
                 "id": 121508511,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:46:11Z",
+                "open_issues": 2,
                 "owner": "bpmn-io",
                 "repo": "eslint-plugin-bpmn-io",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
             }
@@ -763,12 +1131,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display BPMN 2.0 diagrams in Vue.js",
+            "homepage": null,
             "id": 177849211,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:49:22Z",
+            "open_issues": 1,
             "owner": "bpmn-io",
             "repo": "vue-bpmn",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "bpmn-js",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -779,12 +1155,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display BPMN 2.0 diagrams in React.",
+            "homepage": null,
             "id": 177992021,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:49:46Z",
+            "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "react-bpmn",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "bpmn",
+              "bpmn-js",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -795,12 +1180,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example how to integrate bpmn-js with an Angular application.",
+            "homepage": null,
             "id": 160560297,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T09:45:26Z",
+            "open_issues": 1,
             "owner": "bpmn-io",
             "repo": "bpmn-js-example-angular",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "angular",
+              "bpmn-js"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -811,12 +1204,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embed BPMN 2.0 diagrams in your Svelte app",
+            "homepage": null,
             "id": 260669251,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:47:12Z",
+            "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "svelte-bpmn",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "bpmn",
+              "bpmn-js",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -827,12 +1229,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 Display BPMN diagrams directly in Slidev. No more blurry screenshots - just reference your files and see them right in your slides. Powered by bpmn.io 🚀",
+            "homepage": "https://emaarco.github.io/slidev-addon-bpmn/",
             "id": 1148086828,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T04:34:40Z",
+            "open_issues": 3,
             "owner": "emaarco",
             "repo": "slidev-addon-bpmn",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bpmn",
+              "bpmn-js",
+              "slidev"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -843,12 +1254,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 Display DMN diagrams directly in Slidev. No more blurry screenshots - just reference your files and see them right in your slides. Powered by dmn.io 🚀",
+            "homepage": "https://emaarco.github.io/slidev-addon-dmn",
             "id": 1190377454,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:45:09Z",
+            "open_issues": 1,
             "owner": "emaarco",
             "repo": "slidev-addon-dmn",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dmn",
+              "dmn-js",
+              "slidev"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         }
@@ -865,12 +1285,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modeling solution for BPMN, DMN, and Forms based on bpmn.io. As a companion tool to your favorite IDE it supports you in implementing solutions with Camunda.",
+            "homepage": "https://camunda.com/products/modeler",
             "id": 42712762,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:12:57Z",
+            "open_issues": 625,
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1702
+            "stars": 1702,
+            "topics": [
+              "bpmn",
+              "camunda",
+              "desktop-application",
+              "diagram-editor",
+              "dmn",
+              "hacktoberfest",
+              "modeling-tool",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -881,12 +1315,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View and edit BPMN diagrams in VSCode. Powered by bpmn.io tools.",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=bpmn-io.vs-code-bpmn-io",
             "id": 208504570,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:49:58Z",
+            "open_issues": 7,
             "owner": "bpmn-io",
             "repo": "vs-code-bpmn-io",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "bpmn",
+              "bpmn-io",
+              "bpmn-js",
+              "modeling",
+              "vscode",
+              "vscode-extension",
+              "vscode-plugin"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -897,12 +1344,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create post-it boards - built with diagram-js",
+            "homepage": "https://postit-js-demo.netlify.app/",
             "id": 253807782,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:42:38Z",
+            "open_issues": 20,
             "owner": "pinussilvestrus",
             "repo": "postit-js",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "brainstorming",
+              "diagram-js",
+              "javascript",
+              "post-it",
+              "postit-js",
+              "sticky-notes"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -913,12 +1372,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A BPMN Modeler that supports Camunda 7, Camunda 8, Operaton and CIB seven",
+            "homepage": "https://miragon.github.io/bpmn-modeler/",
             "id": 516665812,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:57:01Z",
+            "open_issues": 33,
             "owner": "Miragon",
             "repo": "bpmn-modeler",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "bpmn",
+              "bpmn-modeler",
+              "vs-code"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -929,12 +1397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small BPMN viewer for obsidian notes.",
+            "homepage": null,
             "id": 565176096,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:23:20Z",
+            "open_issues": 11,
             "owner": "joleaf",
             "repo": "obsidian-bpmn-plugin",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -945,12 +1418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitbucket Server plugin for BPMN file versions visual comparison during pull-requests.",
+            "homepage": null,
             "id": 325266648,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-30T18:43:53Z",
+            "open_issues": 3,
             "owner": "domclick",
             "repo": "bpmn-diff-bitbucket-plugin",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         }
@@ -967,12 +1445,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material for my talk \"How to (not) roll your own BPMN editor\", given at CamundaCon LIVE 2020.",
+            "homepage": null,
             "id": 257597006,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-25T13:35:04Z",
+            "open_issues": 0,
             "owner": "nikku",
             "repo": "roll-your-own-bpmn-editor",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "bpmn",
+              "bpmn-io",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -983,12 +1470,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making of token simulation: Understanding bpmn-js extensibility one token at a time",
+            "homepage": "https://cdn.statically.io/gh/nikku/2021-token-simulation/v0.0.5/presentation.html",
             "id": 359469425,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-05-03T07:57:18Z",
+            "open_issues": 0,
             "owner": "nikku",
             "repo": "2021-token-simulation",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bpmn-js"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -999,12 +1493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources and examples from the talk \"Taking Templates to the Limit\" at Camunda Community Summit 2022.",
+            "homepage": null,
             "id": 486643021,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-05-03T07:22:35Z",
+            "open_issues": 0,
             "owner": "pinussilvestrus",
             "repo": "ccs2022-resources",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         }
@@ -1013,15 +1512,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:32:41.856Z",
+    "last_updated": "2026-08-29T04:49:56.956Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of bpmn.io related projects and resources. ",
+      "homepage": "https://bpmn.io",
       "id": 162265232,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-28T09:43:57Z",
+      "open_issues": 0,
       "owner": "bpmn-io",
       "repo": "awesome-bpmn-io",
-      "stars": 228
+      "stars": 228,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bpmn-io"
+      ]
     },
     "original_repository_sha": "e937a005b0e8bc721c9854fac8dda2b98168bc3e",
     "enhanced_repository": "enhansome/enhansome-bpmn-io",
