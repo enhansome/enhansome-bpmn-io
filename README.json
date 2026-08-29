@@ -98,7 +98,7 @@
                 "open_issues": 129,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9636,
+                "stars": 9640,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -235,7 +235,7 @@
                 "open_issues": 28,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
-                "stars": 1918,
+                "stars": 1919,
                 "topics": [
                   "diagram-editor",
                   "diagram-js",
@@ -415,7 +415,7 @@
             "open_issues": 28,
             "owner": "bpmn-io",
             "repo": "diagram-js",
-            "stars": 1918,
+            "stars": 1919,
             "topics": [
               "diagram-editor",
               "diagram-js",
@@ -746,7 +746,7 @@
             "open_issues": 129,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9636,
+            "stars": 9640,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -1402,8 +1402,8 @@
             "id": 565176096,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:23:20Z",
-            "open_issues": 11,
+            "last_commit": "2026-08-29T08:12:04Z",
+            "open_issues": 6,
             "owner": "joleaf",
             "repo": "obsidian-bpmn-plugin",
             "stars": 34,
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:56.956Z",
+    "last_updated": "2026-08-29T19:23:03.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
