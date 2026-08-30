@@ -98,7 +98,7 @@
                 "open_issues": 129,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9640,
+                "stars": 9642,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -235,7 +235,7 @@
                 "open_issues": 28,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
-                "stars": 1919,
+                "stars": 1920,
                 "topics": [
                   "diagram-editor",
                   "diagram-js",
@@ -415,7 +415,7 @@
             "open_issues": 28,
             "owner": "bpmn-io",
             "repo": "diagram-js",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "diagram-editor",
               "diagram-js",
@@ -746,7 +746,7 @@
             "open_issues": 129,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9640,
+            "stars": 9642,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -1377,8 +1377,8 @@
             "id": 516665812,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:57:01Z",
-            "open_issues": 33,
+            "last_commit": "2026-08-30T14:56:02Z",
+            "open_issues": 30,
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 35,
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:23:03.692Z",
+    "last_updated": "2026-08-30T19:17:56.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
