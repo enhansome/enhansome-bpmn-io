@@ -98,7 +98,7 @@
                 "open_issues": 127,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9647,
+                "stars": 9648,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -746,7 +746,7 @@
             "open_issues": 127,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9647,
+            "stars": 9648,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -1294,7 +1294,7 @@
             "open_issues": 636,
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1707,
+            "stars": 1708,
             "topics": [
               "bpmn",
               "camunda",
@@ -1377,8 +1377,8 @@
             "id": 516665812,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T13:54:25Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-04T21:17:22Z",
+            "open_issues": 36,
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 35,
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:58:13.153Z",
+    "last_updated": "2026-09-05T18:13:44.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
