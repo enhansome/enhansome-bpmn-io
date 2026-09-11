@@ -27,7 +27,7 @@
 
 ## Learning Resources
 
-* [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) ⭐ 2,045 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-08 - Large list of bpmn-js usage examples
+* [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) ⭐ 2,046 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-08 - Large list of bpmn-js usage examples
 * [dmn-js-examples](https://github.com/bpmn-io/dmn-js-examples) ⭐ 38 | 🐛 2 | 🌐 HTML | 📅 2026-08-28 - Set of dmn-js usage examples
 * [form-js-examples](https://github.com/bpmn-io/form-js-examples) ⭐ 32 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - A collection of form-js examples
 * [bpmn-js walkthrough](https://bpmn.io/toolkit/bpmn-js/walkthrough/) - An overview over bpmn-js, usage scenarios and its underlying architecture
@@ -39,7 +39,7 @@
 #### Core
 
 * [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,653 | 🐛 127 | 🌐 JavaScript | 📅 2026-09-10 - BPMN 2.0 process and collaboration diagram renderer/editor
-* [form-js](https://github.com/bpmn-io/form-js) ⭐ 549 | 🐛 171 | 🌐 JavaScript | 📅 2026-09-09 - View and visually edit JSON-based forms
+* [form-js](https://github.com/bpmn-io/form-js) ⭐ 549 | 🐛 173 | 🌐 JavaScript | 📅 2026-09-11 - View and visually edit JSON-based forms
 * [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 365 | 🐛 65 | 🌐 JavaScript | 📅 2026-09-10 - DMN DRD, decision table and literal expression renderer/editor
 * [cmmn-js](https://github.com/bpmn-io/cmmn-js) ⚠️ Archived - CMMN 1.2 case diagram renderer/editor
 
@@ -49,13 +49,13 @@
 
 #### Infrastructure / Foundation
 
-* [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,922 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-10 - A toolbox for displaying and modifying diagrams on the web
+* [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,922 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-10 - A toolbox for displaying and modifying diagrams on the web
 * [bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) ⭐ 510 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-10 - Read, modify and write BPMN 2.0 diagrams from JavaScript
 * [dmn-moddle](https://github.com/bpmn-io/dmn-moddle) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-28 - Read, modify and write DMN 1.3 diagrams from JavaScript
 
 ## Extensions
 
-#### [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,922 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-10
+#### [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,922 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-10
 
 * [diagram-js-minimap](https://github.com/bpmn-io/diagram-js-minimap) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - Render a minimap of your diagram
 * [diagram-js-direct-editing](https://github.com/bpmn-io/diagram-js-direct-editing) ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - A direct editing box for diagram-js
@@ -67,7 +67,7 @@
 * [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) ⭐ 312 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-10 - Simulate tokens running through your process
 * [bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - An extension that adds custom resize rules, theming and colors
 * [bpmn-js-cli](https://github.com/bpmn-io/bpmn-js-cli) ⭐ 58 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - Model diagrams without the mouse
-* [bpmn-js-color-picker](https://github.com/bpmn-io/bpmn-js-color-picker) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Color your BPMN elements via the context pad
+* [bpmn-js-color-picker](https://github.com/bpmn-io/bpmn-js-color-picker) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-11 - Color your BPMN elements via the context pad
 * [bpmn-js-sketchy](https://github.com/bpmn-io/bpmn-js-sketchy) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - A sketchy renderer for BPMN diagrams
 * [bpmn-js-embedded-comments](https://github.com/bpmn-io/bpmn-js-embedded-comments) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-28 - Add, edit, and persist comments on BPMN diagrams
 * [camunda-transaction-boundaries](https://github.com/bpmn-io/camunda-transaction-boundaries) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-28 - Visualize transaction boundaries, applied by the [Camunda workflow engine](https://camunda.com/)
@@ -100,10 +100,10 @@
 ## Integrations
 
 * [vue-bpmn](https://github.com/bpmn-io/vue-bpmn) ⭐ 266 | 🐛 1 | 🌐 HTML | 📅 2026-08-28 - Render BPMN 2.0 diagrams in a [Vue.js](https://vuejs.org) application
-* [react-bpmn](https://github.com/bpmn-io/react-bpmn) ⭐ 223 | 🐛 0 | 🌐 HTML | 📅 2026-09-10 - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
+* [react-bpmn](https://github.com/bpmn-io/react-bpmn) ⭐ 223 | 🐛 0 | 🌐 HTML | 📅 2026-09-11 - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
 * [bpmn-js-example-angular](https://github.com/bpmn-io/bpmn-js-example-angular) ⭐ 64 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07 - An integration of bpmn-js with [Angular](https://angular.io/)
 * [svelte-bpmn](https://github.com/bpmn-io/svelte-bpmn) ⭐ 9 | 🐛 0 | 🌐 Svelte | 📅 2026-08-28 - Render BPMN 2.0 diagrams in a [Svelte](https://svelte.dev) application
-* [slidev-addon-bpmn](https://github.com/emaarco/slidev-addon-bpmn) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10 - Display BPMN 2.0 diagrams in [Slidev](https://sli.dev) presentations.
+* [slidev-addon-bpmn](https://github.com/emaarco/slidev-addon-bpmn) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10 - Display BPMN 2.0 diagrams in [Slidev](https://sli.dev) presentations.
 * [slidev-addon-dmn](https://github.com/emaarco/slidev-addon-dmn) ⭐ 1 | 🐛 0 | 🌐 Vue | 📅 2026-09-10 - Display DMN diagrams in [Slidev](https://sli.dev) presentations.
 * [jupyterlab-bpmn](https://pypi.org/project/jupyterlab-bpmn/) - Render BPMN 2.0 diagrams in [JupyterLab](https://jupyter.org/)
 * [jupyterlab-dmn](https://pypi.org/project/jupyterlab-dmn/) - Render DMN diagrams in [JupyterLab](https://jupyter.org/)
@@ -111,10 +111,10 @@
 
 ## Apps
 
-* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,710 | 🐛 636 | 🌐 JavaScript | 📅 2026-09-10 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
+* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,710 | 🐛 636 | 🌐 JavaScript | 📅 2026-09-11 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) ⭐ 134 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-09 - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) ⭐ 97 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-10 - Create Post-it boards on a canvas editor
-* [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) ⭐ 35 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-10 - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
+* [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) ⭐ 35 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-11 - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
 * [Obsidian BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) ⭐ 34 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - A BPMN Viewer / Editor based on bpmn-js for [Obsidian](https://obsidian.md/)
 * [bpmn-diff-bitbucket-plugin](https://github.com/domclick/bpmn-diff-bitbucket-plugin) ⭐ 19 | 🐛 3 | 🌐 JavaScript | 📅 2024-01-30 - Bitbucket Server plugin for BPMN file versions visual comparison during pull-requests
 * [Cawemo](https://cawemo.com/) - A web-based, collaborative modeling solution that uses bpmn-js for process modeling
@@ -130,7 +130,7 @@
 
 ## Contribute
 
-Would you like to contribute to this list? [Propose your addition](https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md) ⭐ 228 | 🐛 0 | 📅 2026-08-28.
+Would you like to contribute to this list? [Propose your addition](https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md) ⭐ 229 | 🐛 0 | 📅 2026-08-28.
 
 This awesome list provides projects and resources that heavily feature the [bpmn.io](https://bpmn.io) project. We do not accept contributions where using our libraries is merely a footnote.
 
@@ -140,4 +140,4 @@ This awesome list provides projects and resources that heavily feature the [bpmn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
