@@ -123,7 +123,7 @@
                 "id": 341551668,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T16:52:02Z",
+                "last_commit": "2026-09-11T22:25:56Z",
                 "open_issues": 173,
                 "owner": "bpmn-io",
                 "repo": "form-js",
@@ -445,7 +445,7 @@
                 "open_issues": 21,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-token-simulation",
-                "stars": 312,
+                "stars": 316,
                 "topics": [
                   "bpmn",
                   "bpmn-engine",
@@ -1160,7 +1160,7 @@
             "id": 177992021,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-11T00:14:21Z",
+            "last_commit": "2026-09-12T18:19:52Z",
             "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "react-bpmn",
@@ -1290,11 +1290,11 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:27:33Z",
-            "open_issues": 636,
+            "last_commit": "2026-09-12T10:40:01Z",
+            "open_issues": 638,
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1710,
+            "stars": 1711,
             "topics": [
               "bpmn",
               "camunda",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:08:33.683Z",
+    "last_updated": "2026-09-12T18:19:58.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",

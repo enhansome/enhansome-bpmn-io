@@ -64,7 +64,7 @@
 
 #### [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,653 | 🐛 127 | 🌐 JavaScript | 📅 2026-09-10
 
-* [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) ⭐ 312 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-10 - Simulate tokens running through your process
+* [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) ⭐ 316 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-10 - Simulate tokens running through your process
 * [bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - An extension that adds custom resize rules, theming and colors
 * [bpmn-js-cli](https://github.com/bpmn-io/bpmn-js-cli) ⭐ 58 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - Model diagrams without the mouse
 * [bpmn-js-color-picker](https://github.com/bpmn-io/bpmn-js-color-picker) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-11 - Color your BPMN elements via the context pad
@@ -100,7 +100,7 @@
 ## Integrations
 
 * [vue-bpmn](https://github.com/bpmn-io/vue-bpmn) ⭐ 266 | 🐛 1 | 🌐 HTML | 📅 2026-08-28 - Render BPMN 2.0 diagrams in a [Vue.js](https://vuejs.org) application
-* [react-bpmn](https://github.com/bpmn-io/react-bpmn) ⭐ 223 | 🐛 0 | 🌐 HTML | 📅 2026-09-11 - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
+* [react-bpmn](https://github.com/bpmn-io/react-bpmn) ⭐ 223 | 🐛 0 | 🌐 HTML | 📅 2026-09-12 - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
 * [bpmn-js-example-angular](https://github.com/bpmn-io/bpmn-js-example-angular) ⭐ 64 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-07 - An integration of bpmn-js with [Angular](https://angular.io/)
 * [svelte-bpmn](https://github.com/bpmn-io/svelte-bpmn) ⭐ 9 | 🐛 0 | 🌐 Svelte | 📅 2026-08-28 - Render BPMN 2.0 diagrams in a [Svelte](https://svelte.dev) application
 * [slidev-addon-bpmn](https://github.com/emaarco/slidev-addon-bpmn) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-10 - Display BPMN 2.0 diagrams in [Slidev](https://sli.dev) presentations.
@@ -111,7 +111,7 @@
 
 ## Apps
 
-* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,710 | 🐛 636 | 🌐 JavaScript | 📅 2026-09-11 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
+* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,711 | 🐛 638 | 🌐 JavaScript | 📅 2026-09-12 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) ⭐ 134 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-09 - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) ⭐ 97 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-10 - Create Post-it boards on a canvas editor
 * [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) ⭐ 35 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-11 - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
@@ -125,7 +125,7 @@
 ## Talks
 
 * [Roll your own BPMN editor](https://github.com/nikku/roll-your-own-bpmn-editor) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-25 - An introduction to bpmn-js and its friends
-* [Making of token simulation](https://github.com/nikku/2021-token-simulation) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2021-05-03 - A dive into bpmn-js extensibility and the inner workings of [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) ⭐ 312 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-10
+* [Making of token simulation](https://github.com/nikku/2021-token-simulation) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2021-05-03 - A dive into bpmn-js extensibility and the inner workings of [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) ⭐ 316 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-10
 * [Taking Templates to the limit](https://github.com/pinussilvestrus/ccs2022-resources) ⭐ 2 | 🐛 0 | 📅 2022-05-03 - A hands-on demo on how to create [Element Templates](https://docs.camunda.io/docs/components/modeler/desktop-modeler/element-templates/about-templates/) in your favorite IDE with [JSON Schema](https://github.com/camunda/element-templates-json-schema) ⭐ 9 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-09
 
 ## Contribute
@@ -140,4 +140,4 @@ This awesome list provides projects and resources that heavily feature the [bpmn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
