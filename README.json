@@ -98,7 +98,7 @@
                 "open_issues": 127,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9653,
+                "stars": 9654,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -123,7 +123,7 @@
                 "id": 341551668,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T22:25:56Z",
+                "last_commit": "2026-09-13T09:50:55Z",
                 "open_issues": 173,
                 "owner": "bpmn-io",
                 "repo": "form-js",
@@ -445,7 +445,7 @@
                 "open_issues": 21,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-token-simulation",
-                "stars": 316,
+                "stars": 319,
                 "topics": [
                   "bpmn",
                   "bpmn-engine",
@@ -746,7 +746,7 @@
             "open_issues": 127,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9653,
+            "stars": 9654,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -1290,7 +1290,7 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T10:40:01Z",
+            "last_commit": "2026-09-13T15:38:07Z",
             "open_issues": 638,
             "owner": "camunda",
             "repo": "camunda-modeler",
@@ -1377,8 +1377,8 @@
             "id": 516665812,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T14:22:31Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-13T18:32:31Z",
+            "open_issues": 44,
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 35,
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:19:58.956Z",
+    "last_updated": "2026-09-13T18:45:48.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
