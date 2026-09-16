@@ -65,7 +65,7 @@
             "id": 362802012,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-04T14:33:05Z",
+            "last_commit": "2026-09-16T08:59:11Z",
             "open_issues": 7,
             "owner": "bpmn-io",
             "repo": "form-js-examples",
@@ -98,7 +98,7 @@
                 "open_issues": 127,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9655,
+                "stars": 9658,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -123,8 +123,8 @@
                 "id": 341551668,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T13:55:22Z",
-                "open_issues": 173,
+                "last_commit": "2026-09-16T16:26:27Z",
+                "open_issues": 172,
                 "owner": "bpmn-io",
                 "repo": "form-js",
                 "stars": 550,
@@ -231,7 +231,7 @@
                 "id": 16174770,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T12:36:06Z",
+                "last_commit": "2026-09-15T19:42:32Z",
                 "open_issues": 31,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
@@ -411,7 +411,7 @@
             "id": 16174770,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T12:36:06Z",
+            "last_commit": "2026-09-15T19:42:32Z",
             "open_issues": 31,
             "owner": "bpmn-io",
             "repo": "diagram-js",
@@ -746,7 +746,7 @@
             "open_issues": 127,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9655,
+            "stars": 9658,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -819,8 +819,8 @@
                 "id": 1320227324,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T12:14:00Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-16T17:57:04Z",
+                "open_issues": 0,
                 "owner": "emaarco",
                 "repo": "dmn-js-simulation",
                 "stars": 1,
@@ -983,7 +983,7 @@
                 "open_issues": 7,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-differ",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "bpmn-js"
                 ]
@@ -1160,7 +1160,7 @@
             "id": 177992021,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-15T05:29:04Z",
+            "last_commit": "2026-09-16T02:24:34Z",
             "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "react-bpmn",
@@ -1185,7 +1185,7 @@
             "id": 160560297,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-07T12:08:41Z",
+            "last_commit": "2026-09-15T20:46:56Z",
             "open_issues": 1,
             "owner": "bpmn-io",
             "repo": "bpmn-js-example-angular",
@@ -1234,7 +1234,7 @@
             "id": 1148086828,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T09:55:54Z",
+            "last_commit": "2026-09-16T10:58:22Z",
             "open_issues": 2,
             "owner": "emaarco",
             "repo": "slidev-addon-bpmn",
@@ -1290,7 +1290,7 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T12:47:22Z",
+            "last_commit": "2026-09-16T19:21:56Z",
             "open_issues": 634,
             "owner": "camunda",
             "repo": "camunda-modeler",
@@ -1367,31 +1367,6 @@
         },
         {
           "node_type": "item",
-          "title": "Miragon BPMN Modeler",
-          "description": "BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A BPMN Modeler that supports Camunda 7, Camunda 8, Operaton and CIB seven",
-            "homepage": "https://miragon.github.io/bpmn-modeler/",
-            "id": 516665812,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-15T18:49:12Z",
-            "open_issues": 39,
-            "owner": "Miragon",
-            "repo": "bpmn-modeler",
-            "stars": 35,
-            "topics": [
-              "bpmn",
-              "bpmn-modeler",
-              "vs-code"
-            ]
-          },
-          "first_seen": "2026-08-29T00:32:41.856Z"
-        },
-        {
-          "node_type": "item",
           "title": "Obsidian BPMN Plugin",
           "description": "A BPMN Viewer / Editor based on bpmn-js for Obsidian",
           "children": [],
@@ -1406,8 +1381,33 @@
             "open_issues": 10,
             "owner": "joleaf",
             "repo": "obsidian-bpmn-plugin",
-            "stars": 34,
+            "stars": 35,
             "topics": []
+          },
+          "first_seen": "2026-08-29T00:32:41.856Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Miragon BPMN Modeler",
+          "description": "BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A BPMN Modeler that supports Camunda 7, Camunda 8, Operaton and CIB seven",
+            "homepage": "https://miragon.github.io/bpmn-modeler/",
+            "id": 516665812,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-16T19:29:50Z",
+            "open_issues": 35,
+            "owner": "Miragon",
+            "repo": "bpmn-modeler",
+            "stars": 35,
+            "topics": [
+              "bpmn",
+              "bpmn-modeler",
+              "vs-code"
+            ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
         },
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:40:25.988Z",
+    "last_updated": "2026-09-16T19:31:57.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
