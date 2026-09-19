@@ -123,7 +123,7 @@
                 "id": 341551668,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T11:19:13Z",
+                "last_commit": "2026-09-18T23:24:10Z",
                 "open_issues": 171,
                 "owner": "bpmn-io",
                 "repo": "form-js",
@@ -1160,7 +1160,7 @@
             "id": 177992021,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-18T06:36:45Z",
+            "last_commit": "2026-09-18T23:11:10Z",
             "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "react-bpmn",
@@ -1290,11 +1290,11 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T15:06:37Z",
-            "open_issues": 637,
+            "last_commit": "2026-09-18T22:20:35Z",
+            "open_issues": 638,
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1710,
+            "stars": 1712,
             "topics": [
               "bpmn",
               "camunda",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:00:44.940Z",
+    "last_updated": "2026-09-19T18:34:54.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",

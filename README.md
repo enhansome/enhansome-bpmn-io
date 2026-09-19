@@ -111,7 +111,7 @@
 
 ## Apps
 
-* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,710 | 🐛 637 | 🌐 JavaScript | 📅 2026-09-18 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
+* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,712 | 🐛 638 | 🌐 JavaScript | 📅 2026-09-18 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) ⭐ 135 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-14 - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) ⭐ 97 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-15 - Create Post-it boards on a canvas editor
 * [Obsidian BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) ⭐ 35 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-01 - A BPMN Viewer / Editor based on bpmn-js for [Obsidian](https://obsidian.md/)
@@ -140,4 +140,4 @@ This awesome list provides projects and resources that heavily feature the [bpmn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
