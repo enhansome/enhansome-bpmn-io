@@ -39,7 +39,7 @@
 #### Core
 
 * [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,668 | 🐛 126 | 🌐 JavaScript | 📅 2026-09-25 - BPMN 2.0 process and collaboration diagram renderer/editor
-* [form-js](https://github.com/bpmn-io/form-js) ⭐ 551 | 🐛 171 | 🌐 JavaScript | 📅 2026-09-25 - View and visually edit JSON-based forms
+* [form-js](https://github.com/bpmn-io/form-js) ⭐ 550 | 🐛 171 | 🌐 JavaScript | 📅 2026-09-25 - View and visually edit JSON-based forms
 * [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 366 | 🐛 69 | 🌐 JavaScript | 📅 2026-09-25 - DMN DRD, decision table and literal expression renderer/editor
 * [cmmn-js](https://github.com/bpmn-io/cmmn-js) ⚠️ Archived - CMMN 1.2 case diagram renderer/editor
 
@@ -49,13 +49,13 @@
 
 #### Infrastructure / Foundation
 
-* [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,926 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-25 - A toolbox for displaying and modifying diagrams on the web
+* [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,926 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-25 - A toolbox for displaying and modifying diagrams on the web
 * [bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) ⭐ 512 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-21 - Read, modify and write BPMN 2.0 diagrams from JavaScript
 * [dmn-moddle](https://github.com/bpmn-io/dmn-moddle) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-21 - Read, modify and write DMN 1.3 diagrams from JavaScript
 
 ## Extensions
 
-#### [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,926 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-25
+#### [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,926 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-25
 
 * [diagram-js-minimap](https://github.com/bpmn-io/diagram-js-minimap) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-24 - Render a minimap of your diagram
 * [diagram-js-direct-editing](https://github.com/bpmn-io/diagram-js-direct-editing) ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - A direct editing box for diagram-js
@@ -140,4 +140,4 @@ This awesome list provides projects and resources that heavily feature the [bpmn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
