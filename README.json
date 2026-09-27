@@ -98,7 +98,7 @@
                 "open_issues": 126,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9668,
+                "stars": 9670,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -232,10 +232,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T05:13:26Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
-                "stars": 1926,
+                "stars": 1927,
                 "topics": [
                   "diagram-editor",
                   "diagram-js",
@@ -412,10 +412,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-25T05:13:26Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "bpmn-io",
             "repo": "diagram-js",
-            "stars": 1926,
+            "stars": 1927,
             "topics": [
               "diagram-editor",
               "diagram-js",
@@ -514,7 +514,7 @@
                 "id": 68397059,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T19:05:40Z",
+                "last_commit": "2026-09-27T15:29:20Z",
                 "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-color-picker",
@@ -746,7 +746,7 @@
             "open_issues": 126,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9668,
+            "stars": 9670,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:12:04.317Z",
+    "last_updated": "2026-09-27T19:44:33.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
