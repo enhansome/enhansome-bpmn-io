@@ -98,7 +98,7 @@
                 "open_issues": 122,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9675,
+                "stars": 9676,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -232,7 +232,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T17:14:55Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
                 "stars": 1926,
@@ -412,7 +412,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T17:14:55Z",
-            "open_issues": 25,
+            "open_issues": 24,
             "owner": "bpmn-io",
             "repo": "diagram-js",
             "stars": 1926,
@@ -514,7 +514,7 @@
                 "id": 68397059,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T11:12:29Z",
+                "last_commit": "2026-10-02T18:16:54Z",
                 "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-color-picker",
@@ -746,7 +746,7 @@
             "open_issues": 122,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9675,
+            "stars": 9676,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -935,7 +935,7 @@
                 "open_issues": 5,
                 "owner": "bpmn-io",
                 "repo": "bpmn-to-image",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "bpmn",
                   "bpmn-to-image"
@@ -1160,7 +1160,7 @@
             "id": 177992021,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-01T03:45:22Z",
+            "last_commit": "2026-10-02T05:57:28Z",
             "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "react-bpmn",
@@ -1199,6 +1199,31 @@
         },
         {
           "node_type": "item",
+          "title": "slidev-addon-bpmn",
+          "description": "Display BPMN 2.0 diagrams in Slidev presentations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "📊 Display BPMN diagrams directly in Slidev. No more blurry screenshots - just reference your files and see them right in your slides. Powered by bpmn.io 🚀",
+            "homepage": "https://emaarco.github.io/slidev-addon-bpmn/",
+            "id": 1148086828,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-01T04:44:13Z",
+            "open_issues": 2,
+            "owner": "emaarco",
+            "repo": "slidev-addon-bpmn",
+            "stars": 10,
+            "topics": [
+              "bpmn",
+              "bpmn-js",
+              "slidev"
+            ]
+          },
+          "first_seen": "2026-08-29T00:32:41.856Z"
+        },
+        {
+          "node_type": "item",
           "title": "svelte-bpmn",
           "description": "Render BPMN 2.0 diagrams in a Svelte application",
           "children": [],
@@ -1218,31 +1243,6 @@
               "bpmn",
               "bpmn-js",
               "svelte"
-            ]
-          },
-          "first_seen": "2026-08-29T00:32:41.856Z"
-        },
-        {
-          "node_type": "item",
-          "title": "slidev-addon-bpmn",
-          "description": "Display BPMN 2.0 diagrams in Slidev presentations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📊 Display BPMN diagrams directly in Slidev. No more blurry screenshots - just reference your files and see them right in your slides. Powered by bpmn.io 🚀",
-            "homepage": "https://emaarco.github.io/slidev-addon-bpmn/",
-            "id": 1148086828,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-01T04:44:13Z",
-            "open_issues": 2,
-            "owner": "emaarco",
-            "repo": "slidev-addon-bpmn",
-            "stars": 9,
-            "topics": [
-              "bpmn",
-              "bpmn-js",
-              "slidev"
             ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
@@ -1290,7 +1290,7 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T11:28:48Z",
+            "last_commit": "2026-10-02T14:53:30Z",
             "open_issues": 624,
             "owner": "camunda",
             "repo": "camunda-modeler",
@@ -1320,8 +1320,8 @@
             "id": 208504570,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T05:39:58Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-02T09:55:58Z",
+            "open_issues": 10,
             "owner": "bpmn-io",
             "repo": "vs-code-bpmn-io",
             "stars": 136,
@@ -1381,7 +1381,7 @@
             "open_issues": 10,
             "owner": "joleaf",
             "repo": "obsidian-bpmn-plugin",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
@@ -1398,11 +1398,11 @@
             "id": 516665812,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T10:15:28Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-02T14:13:04Z",
+            "open_issues": 37,
             "owner": "Miragon",
             "repo": "bpmn-modeler",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "bpmn",
               "bpmn-modeler",
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:00:00.299Z",
+    "last_updated": "2026-10-02T20:40:46.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
