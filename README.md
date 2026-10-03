@@ -130,7 +130,7 @@
 
 ## Contribute
 
-Would you like to contribute to this list? [Propose your addition](https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md) ⭐ 230 | 🐛 0 | 📅 2026-08-28.
+Would you like to contribute to this list? [Propose your addition](https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md).
 
 This awesome list provides projects and resources that heavily feature the [bpmn.io](https://bpmn.io) project. We do not accept contributions where using our libraries is merely a footnote.
 
@@ -140,4 +140,4 @@ This awesome list provides projects and resources that heavily feature the [bpmn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
