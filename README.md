@@ -27,7 +27,7 @@
 
 ## Learning Resources
 
-* [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) ⭐ 2,047 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-01 - Large list of bpmn-js usage examples
+* [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) ⭐ 2,048 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-01 - Large list of bpmn-js usage examples
 * [dmn-js-examples](https://github.com/bpmn-io/dmn-js-examples) ⭐ 38 | 🐛 2 | 🌐 HTML | 📅 2026-10-01 - Set of dmn-js usage examples
 * [form-js-examples](https://github.com/bpmn-io/form-js-examples) ⭐ 32 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-01 - A collection of form-js examples
 * [bpmn-js walkthrough](https://bpmn.io/toolkit/bpmn-js/walkthrough/) - An overview over bpmn-js, usage scenarios and its underlying architecture
@@ -38,9 +38,9 @@
 
 #### Core
 
-* [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,676 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-01 - BPMN 2.0 process and collaboration diagram renderer/editor
+* [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,678 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-01 - BPMN 2.0 process and collaboration diagram renderer/editor
 * [form-js](https://github.com/bpmn-io/form-js) ⭐ 550 | 🐛 170 | 🌐 JavaScript | 📅 2026-10-01 - View and visually edit JSON-based forms
-* [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 366 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-03 - DMN DRD, decision table and literal expression renderer/editor
+* [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 366 | 🐛 70 | 🌐 JavaScript | 📅 2026-10-04 - DMN DRD, decision table and literal expression renderer/editor
 * [cmmn-js](https://github.com/bpmn-io/cmmn-js) ⚠️ Archived - CMMN 1.2 case diagram renderer/editor
 
 #### Community Maintained
@@ -50,7 +50,7 @@
 #### Infrastructure / Foundation
 
 * [diagram-js](https://github.com/bpmn-io/diagram-js) ⭐ 1,926 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-01 - A toolbox for displaying and modifying diagrams on the web
-* [bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) ⭐ 512 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-21 - Read, modify and write BPMN 2.0 diagrams from JavaScript
+* [bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) ⭐ 513 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-21 - Read, modify and write BPMN 2.0 diagrams from JavaScript
 * [dmn-moddle](https://github.com/bpmn-io/dmn-moddle) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-21 - Read, modify and write DMN 1.3 diagrams from JavaScript
 
 ## Extensions
@@ -62,7 +62,7 @@
 * [diagram-js-grid](https://github.com/bpmn-io/diagram-js-grid) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-10 - A visual grid for diagram-js
 * [diagram-js-origin](https://github.com/bpmn-io/diagram-js-origin) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-01 - Render a canvas origin cross
 
-#### [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,676 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-01
+#### [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,678 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-01
 
 * [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) ⭐ 318 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-29 - Simulate tokens running through your process
 * [bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) ⭐ 104 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - An extension that adds custom resize rules, theming and colors
@@ -73,16 +73,16 @@
 * [camunda-transaction-boundaries](https://github.com/bpmn-io/camunda-transaction-boundaries) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-28 - Visualize transaction boundaries, applied by the [Camunda workflow engine](https://camunda.com/)
 * [bpmn-js-create-append-anything](https://github.com/bpmn-io/bpmn-js-create-append-anything) ⭐ 16 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-09 - Extends bpmn-js with a create and append anything modeling experience.
 * [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-03 - An extension to allow tasks being resizable
-* [bpmn-js-native-copy-paste](https://github.com/nikku/bpmn-js-native-copy-paste) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-05 - Copy and paste across [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,676 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-01 instances, browser tabs and applications - using the system clipboard
+* [bpmn-js-native-copy-paste](https://github.com/nikku/bpmn-js-native-copy-paste) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-05 - Copy and paste across [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,678 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-01 instances, browser tabs and applications - using the system clipboard
 * [bpmn-js-collapse-subprocess](https://github.com/bpmn-io/bpmn-js-collapse-subprocess) ⚠️ Archived - An extension that re-enables to collapse sub process via replace menu
 * [bpmn-js-honkify](https://github.com/pinussilvestrus/bpmn-js-honkify) ⭐ 3 | 🐛 4 | 🌐 JavaScript | 📅 2022-03-24 - Integrates honkify inspired duck sounds into bpmn-js
 * [bpmn-js-disable-collapsed-subprocess](https://github.com/bpmn-io/bpmn-js-disable-collapsed-subprocess) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - An extension which disables modeling collapsed subprocess via replace menu
 
-#### [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 366 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-03
+#### [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 366 | 🐛 70 | 🌐 JavaScript | 📅 2026-10-04
 
 * [dmn-migrate](https://github.com/bpmn-io/dmn-migrate) ⭐ 5 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-09 - Migrate your DMN diagrams to the latest DMN version
 * [dmnlint](https://github.com/bpmn-io/dmnlint) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - Validate DMN diagrams based on configurable lint rules
-* [dmn-js-simulation](https://github.com/emaarco/dmn-simulation) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - Simulate DMN decision tables and DRDs inside a [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 366 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-03 modeler
+* [dmn-js-simulation](https://github.com/emaarco/dmn-simulation) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01 - Simulate DMN decision tables and DRDs inside a [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 366 | 🐛 70 | 🌐 JavaScript | 📅 2026-10-04 modeler
 
 #### Misc
 
@@ -94,7 +94,7 @@
 * [bpmn-to-visio](https://github.com/Mgabr90/bpmn-to-visio) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-03-01 - Convert BPMN 2.0 diagrams to Microsoft Visio (.vsdx) files, preserving layout from bpmn.io
 * [@bpmn-io/add-exporter](https://github.com/bpmn-io/add-exporter) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - A helper to inject `exporter` meta-data into saved BPMN, CMMN and DMN diagrams
 * [@bpmn-io/align-to-origin](https://github.com/bpmn-io/align-to-origin) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09 - Aligns your diagrams to the coordinate origin, manually triggered or on diagram save
-* [bpmn-js-headless](https://github.com/bpmn-io/bpmn-js-headless) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Execute [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,676 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-01 in headless environments
+* [bpmn-js-headless](https://github.com/bpmn-io/bpmn-js-headless) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-28 - Execute [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,678 | 🐛 122 | 🌐 JavaScript | 📅 2026-10-01 in headless environments
 * [eslint-plugin-bpmn-io](https://github.com/bpmn-io/eslint-plugin-bpmn-io) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-09 - Common lint rules for bpmn.io projects
 
 ## Integrations
@@ -140,4 +140,4 @@ This awesome list provides projects and resources that heavily feature the [bpmn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "bpmn-io",
             "repo": "bpmn-js-examples",
-            "stars": 2047,
+            "stars": 2048,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -98,7 +98,7 @@
                 "open_issues": 122,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9676,
+                "stars": 9678,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -150,8 +150,8 @@
                 "id": 36921499,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T15:03:30Z",
-                "open_issues": 69,
+                "last_commit": "2026-10-04T01:41:00Z",
+                "open_issues": 70,
                 "owner": "bpmn-io",
                 "repo": "dmn-js",
                 "stars": 366,
@@ -262,7 +262,7 @@
                 "open_issues": 2,
                 "owner": "bpmn-io",
                 "repo": "bpmn-moddle",
-                "stars": 512,
+                "stars": 513,
                 "topics": [
                   "bpmn",
                   "javascript",
@@ -746,7 +746,7 @@
             "open_issues": 122,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9676,
+            "stars": 9678,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -851,8 +851,8 @@
             "id": 36921499,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T15:03:30Z",
-            "open_issues": 69,
+            "last_commit": "2026-10-04T01:41:00Z",
+            "open_issues": 70,
             "owner": "bpmn-io",
             "repo": "dmn-js",
             "stars": 366,
@@ -1512,7 +1512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:11:44.229Z",
+    "last_updated": "2026-10-04T19:33:54.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
