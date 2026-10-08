@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "bpmn-io",
             "repo": "bpmn-js-examples",
-            "stars": 2048,
+            "stars": 2049,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -94,11 +94,11 @@
                 "id": 17592572,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T23:02:00Z",
-                "open_issues": 122,
+                "last_commit": "2026-10-08T11:30:59Z",
+                "open_issues": 121,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9683,
+                "stars": 9684,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -235,7 +235,7 @@
                 "open_issues": 25,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
-                "stars": 1926,
+                "stars": 1927,
                 "topics": [
                   "diagram-editor",
                   "diagram-js",
@@ -325,7 +325,7 @@
                 "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "diagram-js-minimap",
-                "stars": 37,
+                "stars": 36,
                 "topics": [
                   "diagram-js",
                   "minimap"
@@ -415,7 +415,7 @@
             "open_issues": 25,
             "owner": "bpmn-io",
             "repo": "diagram-js",
-            "stars": 1926,
+            "stars": 1927,
             "topics": [
               "diagram-editor",
               "diagram-js",
@@ -472,7 +472,7 @@
                 "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-nyan",
-                "stars": 104,
+                "stars": 103,
                 "topics": [
                   "bpmn-js"
                 ]
@@ -541,7 +541,7 @@
                 "open_issues": 0,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js-sketchy",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -742,11 +742,11 @@
             "id": 17592572,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T23:02:00Z",
-            "open_issues": 122,
+            "last_commit": "2026-10-08T11:30:59Z",
+            "open_issues": 121,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9683,
+            "stars": 9684,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -1160,7 +1160,7 @@
             "id": 177992021,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-07T11:18:07Z",
+            "last_commit": "2026-10-08T10:37:40Z",
             "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "react-bpmn",
@@ -1185,7 +1185,7 @@
             "id": 160560297,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-15T20:46:56Z",
+            "last_commit": "2026-10-08T05:33:58Z",
             "open_issues": 1,
             "owner": "bpmn-io",
             "repo": "bpmn-js-example-angular",
@@ -1199,8 +1199,8 @@
         },
         {
           "node_type": "item",
-          "title": "slidev-addon-bpmn",
-          "description": "Display BPMN 2.0 diagrams in Slidev presentations.",
+          "title": "slidev-addon-diagram-js",
+          "description": "Display and edit BPMN 2.0, DMN and other diagram-js-based models in Slidev presentations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,31 +1256,6 @@
             ]
           },
           "first_seen": "2026-08-29T00:32:41.856Z"
-        },
-        {
-          "node_type": "item",
-          "title": "slidev-addon-dmn",
-          "description": "Display DMN diagrams in Slidev presentations.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "📊 Display DMN diagrams directly in Slidev. No more blurry screenshots - just reference your files and see them right in your slides. Powered by dmn.io 🚀",
-            "homepage": "https://emaarco.github.io/slidev-addon-dmn",
-            "id": 1190377454,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-10-06T18:46:11Z",
-            "open_issues": 0,
-            "owner": "emaarco",
-            "repo": "slidev-addon-dmn",
-            "stars": 1,
-            "topics": [
-              "dmn",
-              "dmn-js",
-              "slidev"
-            ]
-          },
-          "first_seen": "2026-08-29T00:32:41.856Z"
         }
       ],
       "title": "Integrations"
@@ -1300,11 +1275,11 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T13:06:49Z",
+            "last_commit": "2026-10-08T15:08:30Z",
             "open_issues": 631,
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1720,
+            "stars": 1722,
             "topics": [
               "bpmn",
               "camunda",
@@ -1408,7 +1383,7 @@
             "id": 516665812,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T05:09:16Z",
+            "last_commit": "2026-10-08T13:03:41Z",
             "open_issues": 37,
             "owner": "Miragon",
             "repo": "bpmn-modeler",
@@ -1522,7 +1497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:15:46.936Z",
+    "last_updated": "2026-10-08T21:16:28.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
@@ -1530,7 +1505,7 @@
       "id": 162265232,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-28T09:43:57Z",
+      "last_commit": "2026-10-08T10:09:04Z",
       "open_issues": 0,
       "owner": "bpmn-io",
       "repo": "awesome-bpmn-io",
@@ -1541,7 +1516,7 @@
         "bpmn-io"
       ]
     },
-    "original_repository_sha": "e937a005b0e8bc721c9854fac8dda2b98168bc3e",
+    "original_repository_sha": "9eec018649673d10495299fd128c3c7e3f99a481",
     "enhanced_repository": "enhansome/enhansome-bpmn-io",
     "enhanced_repository_description": null,
     "title": "Awesome bpmn io with stars"
