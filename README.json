@@ -123,11 +123,11 @@
                 "id": 341551668,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T10:26:40Z",
+                "last_commit": "2026-10-09T19:21:26Z",
                 "open_issues": 170,
                 "owner": "bpmn-io",
                 "repo": "form-js",
-                "stars": 550,
+                "stars": 549,
                 "topics": [
                   "bpmn-io",
                   "form",
@@ -150,11 +150,11 @@
                 "id": 36921499,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T16:08:52Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-09T20:15:50Z",
+                "open_issues": 68,
                 "owner": "bpmn-io",
                 "repo": "dmn-js",
-                "stars": 366,
+                "stars": 365,
                 "topics": [
                   "dmn",
                   "hacktoberfest",
@@ -179,7 +179,7 @@
                 "open_issues": 8,
                 "owner": "bpmn-io",
                 "repo": "cmmn-js",
-                "stars": 85,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:32:41.856Z"
@@ -235,7 +235,7 @@
                 "open_issues": 25,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
-                "stars": 1927,
+                "stars": 1926,
                 "topics": [
                   "diagram-editor",
                   "diagram-js",
@@ -415,7 +415,7 @@
             "open_issues": 25,
             "owner": "bpmn-io",
             "repo": "diagram-js",
-            "stars": 1927,
+            "stars": 1926,
             "topics": [
               "diagram-editor",
               "diagram-js",
@@ -819,7 +819,7 @@
                 "id": 1320227324,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T12:52:49Z",
+                "last_commit": "2026-10-09T13:11:54Z",
                 "open_issues": 0,
                 "owner": "emaarco",
                 "repo": "dmn-js-simulation",
@@ -851,11 +851,11 @@
             "id": 36921499,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T16:08:52Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-09T20:15:50Z",
+            "open_issues": 68,
             "owner": "bpmn-io",
             "repo": "dmn-js",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "dmn",
               "hacktoberfest",
@@ -935,7 +935,7 @@
                 "open_issues": 5,
                 "owner": "bpmn-io",
                 "repo": "bpmn-to-image",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "bpmn",
                   "bpmn-to-image"
@@ -1160,7 +1160,7 @@
             "id": 177992021,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-08T10:37:40Z",
+            "last_commit": "2026-10-09T04:47:03Z",
             "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "react-bpmn",
@@ -1275,11 +1275,11 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T15:08:30Z",
+            "last_commit": "2026-10-09T16:26:57Z",
             "open_issues": 631,
             "owner": "camunda",
             "repo": "camunda-modeler",
-            "stars": 1722,
+            "stars": 1723,
             "topics": [
               "bpmn",
               "camunda",
@@ -1497,7 +1497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:16:28.385Z",
+    "last_updated": "2026-10-09T20:50:31.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
