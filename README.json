@@ -1275,8 +1275,8 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T16:26:57Z",
-            "open_issues": 631,
+            "last_commit": "2026-10-11T18:20:05Z",
+            "open_issues": 633,
             "owner": "camunda",
             "repo": "camunda-modeler",
             "stars": 1723,
@@ -1497,7 +1497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:02:19.711Z",
+    "last_updated": "2026-10-11T20:12:41.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
