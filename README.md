@@ -72,7 +72,7 @@
 * [bpmn-js-embedded-comments](https://github.com/bpmn-io/bpmn-js-embedded-comments) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-28 - Add, edit, and persist comments on BPMN diagrams
 * [camunda-transaction-boundaries](https://github.com/bpmn-io/camunda-transaction-boundaries) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-28 - Visualize transaction boundaries, applied by the [Camunda workflow engine](https://camunda.com/)
 * [bpmn-js-create-append-anything](https://github.com/bpmn-io/bpmn-js-create-append-anything) ⭐ 16 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-22 - Extends bpmn-js with a create and append anything modeling experience.
-* [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-03 - An extension to allow tasks being resizable
+* [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-31 - An extension to allow tasks being resizable
 * [bpmn-js-native-copy-paste](https://github.com/nikku/bpmn-js-native-copy-paste) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-05 - Copy and paste across [bpmn-js](https://github.com/bpmn-io/bpmn-js) ⭐ 9,716 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-30 instances, browser tabs and applications - using the system clipboard
 * [bpmn-js-collapse-subprocess](https://github.com/bpmn-io/bpmn-js-collapse-subprocess) ⚠️ Archived - An extension that re-enables to collapse sub process via replace menu
 * [bpmn-js-honkify](https://github.com/pinussilvestrus/bpmn-js-honkify) ⭐ 3 | 🐛 4 | 🌐 JavaScript | 📅 2022-03-24 - Integrates honkify inspired duck sounds into bpmn-js
@@ -82,7 +82,7 @@
 
 * [dmn-migrate](https://github.com/bpmn-io/dmn-migrate) ⭐ 5 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-28 - Migrate your DMN diagrams to the latest DMN version
 * [dmnlint](https://github.com/bpmn-io/dmnlint) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-28 - Validate DMN diagrams based on configurable lint rules
-* [dmn-js-simulation](https://github.com/emaarco/dmn-simulation) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-27 - Simulate DMN decision tables and DRDs inside a [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 368 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-29 modeler
+* [dmn-js-simulation](https://github.com/emaarco/dmn-simulation) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-27 - Simulate DMN decision tables and DRDs inside a [dmn-js](https://github.com/bpmn-io/dmn-js) ⭐ 368 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-29 modeler
 
 #### Misc
 
@@ -100,7 +100,7 @@
 ## Integrations
 
 * [vue-bpmn](https://github.com/bpmn-io/vue-bpmn) ⭐ 266 | 🐛 1 | 🌐 HTML | 📅 2026-10-28 - Render BPMN 2.0 diagrams in a [Vue.js](https://vuejs.org) application
-* [react-bpmn](https://github.com/bpmn-io/react-bpmn) ⭐ 224 | 🐛 0 | 🌐 HTML | 📅 2026-10-30 - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
+* [react-bpmn](https://github.com/bpmn-io/react-bpmn) ⭐ 224 | 🐛 0 | 🌐 HTML | 📅 2026-10-31 - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
 * [bpmn-js-example-angular](https://github.com/bpmn-io/bpmn-js-example-angular) ⭐ 64 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 - An integration of bpmn-js with [Angular](https://angular.io/)
 * [slidev-addon-diagram-js](https://github.com/emaarco/slidev-addon-diagram-js) ⭐ 10 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-28 - Display and edit BPMN 2.0, DMN and other diagram-js-based models in [Slidev](https://sli.dev) presentations
 * [svelte-bpmn](https://github.com/bpmn-io/svelte-bpmn) ⭐ 9 | 🐛 0 | 🌐 Svelte | 📅 2026-08-28 - Render BPMN 2.0 diagrams in a [Svelte](https://svelte.dev) application
@@ -110,11 +110,11 @@
 
 ## Apps
 
-* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,730 | 🐛 609 | 🌐 JavaScript | 📅 2026-10-30 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
+* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) ⭐ 1,732 | 🐛 609 | 🌐 JavaScript | 📅 2026-10-30 - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) ⭐ 136 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-28 - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) ⭐ 98 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-28 - Create Post-it boards on a canvas editor
-* [Obsidian BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) ⭐ 38 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-10 - A BPMN Viewer / Editor based on bpmn-js for [Obsidian](https://obsidian.md/)
-* [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) ⭐ 38 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-30 - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
+* [Obsidian BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) ⭐ 38 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-30 - A BPMN Viewer / Editor based on bpmn-js for [Obsidian](https://obsidian.md/)
+* [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) ⭐ 38 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-31 - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
 * [bpmn-diff-bitbucket-plugin](https://github.com/domclick/bpmn-diff-bitbucket-plugin) ⭐ 19 | 🐛 3 | 🌐 JavaScript | 📅 2024-01-30 - Bitbucket Server plugin for BPMN file versions visual comparison during pull-requests
 * [bpmn-surf](https://github.com/kaoalllex/bpmn-surf) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-23 - Browser extension for Chrome and Firefox that shows visual BPMN and DMN diffs in GitLab merge requests and GitHub pull requests
 * [Cawemo](https://cawemo.com/) - A web-based, collaborative modeling solution that uses bpmn-js for process modeling
@@ -140,4 +140,4 @@ This awesome list provides projects and resources that heavily feature the [bpmn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
