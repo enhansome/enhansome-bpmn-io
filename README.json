@@ -98,7 +98,7 @@
                 "open_issues": 123,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9717,
+                "stars": 9718,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -235,7 +235,7 @@
                 "open_issues": 28,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
-                "stars": 1928,
+                "stars": 1929,
                 "topics": [
                   "diagram-editor",
                   "diagram-js",
@@ -415,7 +415,7 @@
             "open_issues": 28,
             "owner": "bpmn-io",
             "repo": "diagram-js",
-            "stars": 1928,
+            "stars": 1929,
             "topics": [
               "diagram-editor",
               "diagram-js",
@@ -746,7 +746,7 @@
             "open_issues": 123,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9717,
+            "stars": 9718,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -819,7 +819,7 @@
                 "id": 1320227324,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T10:47:52Z",
+                "last_commit": "2026-11-02T10:49:41Z",
                 "open_issues": 3,
                 "owner": "emaarco",
                 "repo": "dmn-js-simulation",
@@ -1275,8 +1275,8 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T22:39:56Z",
-            "open_issues": 609,
+            "last_commit": "2026-11-02T14:20:28Z",
+            "open_issues": 610,
             "owner": "camunda",
             "repo": "camunda-modeler",
             "stars": 1732,
@@ -1383,8 +1383,8 @@
             "id": 516665812,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T13:28:37Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-02T21:17:43Z",
+            "open_issues": 59,
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 38,
@@ -1530,7 +1530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:27:27.473Z",
+    "last_updated": "2026-11-02T23:28:29.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
