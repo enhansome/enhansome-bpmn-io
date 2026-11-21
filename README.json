@@ -98,7 +98,7 @@
                 "open_issues": 119,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9742,
+                "stars": 9745,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -746,7 +746,7 @@
             "open_issues": 119,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9742,
+            "stars": 9745,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -1362,8 +1362,8 @@
             "id": 516665812,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T22:33:22Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-21T21:34:21Z",
+            "open_issues": 110,
             "owner": "Miragon",
             "repo": "bpmn-modeler",
             "stars": 44,
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:38:51.677Z",
+    "last_updated": "2026-11-21T21:37:18.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
