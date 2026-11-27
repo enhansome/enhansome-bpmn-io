@@ -98,7 +98,7 @@
                 "open_issues": 121,
                 "owner": "bpmn-io",
                 "repo": "bpmn-js",
-                "stars": 9748,
+                "stars": 9749,
                 "topics": [
                   "bpmn",
                   "bpmn-js",
@@ -235,7 +235,7 @@
                 "open_issues": 25,
                 "owner": "bpmn-io",
                 "repo": "diagram-js",
-                "stars": 1930,
+                "stars": 1931,
                 "topics": [
                   "diagram-editor",
                   "diagram-js",
@@ -415,7 +415,7 @@
             "open_issues": 25,
             "owner": "bpmn-io",
             "repo": "diagram-js",
-            "stars": 1930,
+            "stars": 1931,
             "topics": [
               "diagram-editor",
               "diagram-js",
@@ -746,7 +746,7 @@
             "open_issues": 121,
             "owner": "bpmn-io",
             "repo": "bpmn-js",
-            "stars": 9748,
+            "stars": 9749,
             "topics": [
               "bpmn",
               "bpmn-js",
@@ -1160,7 +1160,7 @@
             "id": 177992021,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-25T02:36:37Z",
+            "last_commit": "2026-11-26T17:47:12Z",
             "open_issues": 0,
             "owner": "bpmn-io",
             "repo": "react-bpmn",
@@ -1185,7 +1185,7 @@
             "id": 160560297,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-23T23:56:33Z",
+            "last_commit": "2026-11-26T16:12:43Z",
             "open_issues": 1,
             "owner": "bpmn-io",
             "repo": "bpmn-js-example-angular",
@@ -1209,8 +1209,8 @@
             "id": 1148086828,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T06:39:54Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-26T16:08:14Z",
+            "open_issues": 7,
             "owner": "emaarco",
             "repo": "slidev-addon-diagram-js",
             "stars": 10,
@@ -1275,8 +1275,8 @@
             "id": 42712762,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T15:35:50Z",
-            "open_issues": 615,
+            "last_commit": "2026-11-26T14:46:20Z",
+            "open_issues": 614,
             "owner": "camunda",
             "repo": "camunda-modeler",
             "stars": 1738,
@@ -1429,8 +1429,8 @@
             "id": 1324936349,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T14:51:40Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-26T15:59:35Z",
+            "open_issues": 10,
             "owner": "Miragon",
             "repo": "diagit",
             "stars": 6,
@@ -1451,6 +1451,39 @@
             ]
           },
           "first_seen": "2026-11-19T23:01:14.230Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BPMN-Pilot",
+          "description": "Browser BPMN editor built on bpmn-js, with a built-in AI assistant and an MCP server so a chat and external agents draw on the same diagram",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "BPMN 2.0 editor that turns what your AI agent knows (mails, wikis, documents, \"second brain\") into process diagrams in seconds, through MCP or its built-in assistant. Built on bpmn-js.",
+            "homepage": "https://bpmn.leylines.fr/",
+            "id": 1467956730,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-26T23:29:08Z",
+            "open_issues": 1,
+            "owner": "Leylines-Prism",
+            "repo": "bpmn-pilot",
+            "stars": 2,
+            "topics": [
+              "ai-assistants",
+              "bpmn",
+              "bpmn-2-0",
+              "bpmn-editor",
+              "bpmn-io",
+              "bpmn-js",
+              "docker",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "process-modeling"
+            ]
+          },
+          "first_seen": "2026-11-27T00:33:00.111Z"
         },
         {
           "node_type": "item",
@@ -1565,7 +1598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:16:24.385Z",
+    "last_updated": "2026-11-27T00:33:00.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bpmn.io related projects and resources. ",
@@ -1573,7 +1606,7 @@
       "id": 162265232,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-19T12:36:16Z",
+      "last_commit": "2026-11-26T15:07:08Z",
       "open_issues": 0,
       "owner": "bpmn-io",
       "repo": "awesome-bpmn-io",
@@ -1584,7 +1617,7 @@
         "bpmn-io"
       ]
     },
-    "original_repository_sha": "6c94e7e061affb2ac7067410087f7cf4d2d06d1b",
+    "original_repository_sha": "0a99a1815f6e5fa9fd6ffa0783912d1bcf3e4678",
     "enhanced_repository": "enhansome/enhansome-bpmn-io",
     "enhanced_repository_description": null,
     "title": "Awesome bpmn io with stars"
